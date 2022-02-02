@@ -1,0 +1,471 @@
+
+        .ust{
+            background-color: black;
+        }
+        .ust {
+            background-image:url(images/yazi.jpg)  ;
+            background-size:500px;
+            background-repeat: no-repeat;
+         
+            width: 2050px;
+            height: 170px;
+           
+          background-color: black ;
+            
+            float: left;
+
+        }
+       .ust button{
+        
+        position: relative;
+        left: 1400px;
+        top: 70px;
+        width: 80px;
+        height: 80px;
+        border-radius: 8px;
+        background-image: url("images/ucgen.jpg");
+        background-size: cover;
+
+       
+
+
+       }
+       .button2 button{
+        margin-top: 70px;
+        position:absolute;
+        left: 1500px;
+        
+        width:80px;
+        height: 80px;
+        border-radius: 8px;
+        background-image: url("images/kare.jpg");
+        background-size: cover;
+
+       }
+       .etiket2 h1{
+        margin-top: 30px;
+        position:absolute;
+        left: 1500px;
+        
+        width:80px;
+        height: 30px;
+        border-radius: 8px;
+        color: burlywood;
+        font-size: 18px;
+        border-style: solid;
+        text-align: center;
+        
+       }
+       .etiket1 h1{
+        margin-top: 30px;
+        position:absolute;
+        left: 1400px;
+        
+        width:80px;
+        height: 30px;
+        border-radius: 8px;
+        color: burlywood;
+        font-size: 18px;
+        border-style: solid;
+        text-align: center;
+
+       }
+
+      .orta1 {
+       
+        
+        position: relative;
+
+        left: 600px;
+        top: 550px;
+        font-size: 25px;
+        background-color: black;
+        background-size: cover;
+        width: 450px;
+        height: 350px;
+        color: blanchedalmond;
+        text-align: center;
+        line-height: 1;
+      
+        
+    
+
+       }
+       .email{
+        position: absolute;
+
+        left: 35px;
+        top: 140px;
+         
+
+       }
+       .remember{
+         color:blanchedalmond
+       }
+       img
+        {
+      position: absolute;
+
+        left: 720px;
+        top: 595px;
+
+       z-index: -1;
+         }
+       .benihatirla{
+         font-size: 16px;
+         position: absolute;
+
+        left: 180px;
+        top: 300px;
+       }
+       .sifre{
+        position: absolute;
+
+        left: 120px;
+        top: 190px;
+
+       }
+       .buton{
+        position: absolute;
+
+        left: 190px;
+        top: 240px;
+
+       }
+
+     body{
+         background-color: red;
+         
+     }
+     
+     .resim img{
+       
+      
+      position: absolute;
+
+        left: 11px;
+        top: 240px;
+      height: 1120px;
+      width: 1635px;
+
+     }
+
+     .resim1 img{
+      
+    z-index: -2;
+    position: absolute;
+
+    left: -610px;
+    top: -400px;
+    height: 1080px;
+    width: 1670px;
+     }
+     .resim2 img{
+      
+      z-index: -2;
+      position: absolute;
+  
+      left: 0px;
+      top: 50px;
+      height: 1080px;
+      width: 1670px;
+       }
+      .ortanca{
+        background-color: black;
+
+        color: cornsilk;
+        position: absolute;
+        padding:48px ;
+  
+      left: 570px;
+      top: 448px;
+      height: 355px;
+      width: 367px;
+      text-align:left 15px;
+      vertical-align: 25px;
+      font-size: 22px;
+      line-height: 1.8;
+
+      }
+      .ortanca input,select{
+        float: right;
+
+      }
+    
+      .orta11 {
+       
+        
+        position: relative;
+
+        left: 600px;
+        top: 550px;
+        font-size: 25px;
+        background-color: black;
+        background-size: cover;
+        width: 450px;
+        height: 350px;
+        color: blanchedalmond;
+        text-align: center;
+        line-height: 1;
+      
+        
+    
+
+       }
+
+      .form-check{
+       font-size: 15px;
+      }
+      .dogrulama{
+        position: absolute;
+        padding:810px ;
+
+      }
+      .accordion {
+        overflow: hidden;
+          border-radius: 3px;
+          background: black;
+          font-family: arial;
+          width: 1600px;
+          
+          border: 1px solid #f9f9f9;
+          box-shadow: 0px 0px 1px 1px #4f4f4f;
+          position: relative;
+
+          left: 10px;
+          top: 10px;
+         
+      }
+      .accordion-section-title {
+        width:100%;
+        padding:32px;
+        display:inline-block;
+        border-bottom:1px solid #1a1a1a;
+        background:#4F4F4F;
+        transition:all linear 0.15s;
+        font-size:1em;
+        text-shadow:0px 1px 0px #1a1a1a;
+        color:rgb(161, 160, 160);
+        text-decoration:none;
+        font-weight: 600;
+        cursor:pointer
+        
+      }
+     
+      .accordion-section-title.active, .accordion-section-title:hover {
+        background:black;
+        color:tomato
+      }
+      .accordion-section:last-child .accordion-section-title {
+        border-bottom:none;
+      }
+      .accordion-section-content {
+        padding:0 15px;
+        line-height: 1.4;
+        display:none;
+      }
+      .resimb{
+        
+        position: relative;
+
+        left: -900px;
+        top: -910px;
+        
+        z-index: -2;
+      }
+      .baslik h2{
+        background-color: tomato;
+        color: white;
+        padding-left: 10px;
+        text-shadow:0px 3px 0px orange;
+        font-size: 40px;
+        font-weight: 600;
+        width: 1600px;
+        text-align: left;
+        float: left ;
+       
+        
+      }
+     
+
+
+     
+      *{margin:0; padding:0;}
+        .menu{width:800px; height:59; background:gainsboro; margin:0 auto;border-bottom:4px solid red;
+          position: relative;
+          top: -50px;
+          left: -410px;
+        
+        }
+        .menu ul li {background-color:black;float:left;list-style-type:none;}
+        .menu ul li a{ color:red; font:17px Arial;text-decoration:none;display:block; padding:14px 15px;transition:all .5s;-webkit-transition:all .5s;-moz-transition:all .5s;}
+        .menu ul li a:hover{
+          background:red;
+          color:yellow;
+        }
+        .p1{
+          width: 700px;
+          height: 360px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top:-320px
+          
+        }
+        .kiz img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+
+
+        }
+        .p2{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .amca img{
+         z-index: 5;
+         position: relative;
+         top: 100px;
+         left: 10px;
+        
+        }
+        .p3{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .ali img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+
+
+        }
+        .p4{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .a456 img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+
+
+        }
+        .p5{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .cokbilmis img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+        }
+
+
+         .p6{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .polis img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+
+
+        }
+        .p7{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .pislikadam img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+
+
+        }
+        .p8{
+          width: 700px;
+          height: 370px;
+          background-color: tomato;
+          position: relative;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 50px;
+          left: 800px;
+          top: -323px;
+          
+        }
+        .asalak img{
+         
+          z-index: 3;
+         position: relative;
+         top: 100px;
+         left: 10px;
+
+
+        }
